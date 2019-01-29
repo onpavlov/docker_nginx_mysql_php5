@@ -1,4 +1,4 @@
-# docker_nginx_mysql_php72
+# docker_nginx_mysql_php56
 Config files for create docker images with nginx + mysql + php5.6
 
 Install docker-compose https://docs.docker.com/compose/install/
